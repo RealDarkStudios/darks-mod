@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "darksmod:blocks/darkessencepack_ore",
+    "particle": "darksmod:blocks/darkessencepack_ore"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "darksmod:blocks/dark_powder_block",
+    "up": "darksmod:blocks/dark_powder_block",
+    "north": "darksmod:blocks/dark_powder_block",
+    "east": "darksmod:blocks/dark_powder_block",
+    "south": "darksmod:blocks/dark_powder_block",
+    "west": "darksmod:blocks/dark_powder_block",
+    "particle": "darksmod:blocks/dark_powder_block"
+  }
+}

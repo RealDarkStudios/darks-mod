@@ -1,0 +1,13 @@
+{
+  "group": "darksmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "darksmod:dark_essence_block"
+    }
+  ],
+  "result": {
+    "item": "darksmod:dark_essence",
+    "count": 3
+  }
+}

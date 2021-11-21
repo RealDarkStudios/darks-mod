@@ -1,0 +1,26 @@
+{
+  "display": {
+    "background": "darksmod:textures/advancement_bg.png",
+    "icon": {
+      "item": "minecraft:netherite_sword"
+    },
+    "title": {
+      "translate": "advancements.thanks_for_playing.title"
+    },
+    "description": {
+      "translate": "advancements.thanks_for_playing.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "thanks_for_playing": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  }
+}

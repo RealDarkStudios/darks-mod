@@ -1,0 +1,12 @@
+{
+  "group": "darksmod",
+  "type": "minecraft:smelting",
+  "experience": 2.0999999999999996,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "darksmod:dark_essence_pack_ore"
+  },
+  "result": {
+    "item": "darksmod:dark_essence"
+  }
+}

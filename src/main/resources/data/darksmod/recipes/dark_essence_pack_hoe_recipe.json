@@ -1,0 +1,27 @@
+{
+  "group": "darksmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "darksmod:dark_essence"
+    },
+    "1": {
+      "item": "darksmod:dark_essence"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "darksmod:dark_essence_pack_hoe",
+    "count": 1
+  }
+}

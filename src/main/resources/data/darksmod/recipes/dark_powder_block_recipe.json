@@ -1,0 +1,42 @@
+{
+  "group": "darksmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "darksmod:dark_powder"
+    },
+    "1": {
+      "item": "minecraft:gravel"
+    },
+    "2": {
+      "item": "darksmod:dark_powder"
+    },
+    "3": {
+      "item": "minecraft:sand"
+    },
+    "4": {
+      "item": "minecraft:nether_star"
+    },
+    "5": {
+      "item": "minecraft:sand"
+    },
+    "6": {
+      "item": "darksmod:dark_powder"
+    },
+    "7": {
+      "item": "minecraft:gravel"
+    },
+    "8": {
+      "item": "darksmod:dark_powder"
+    }
+  },
+  "result": {
+    "item": "darksmod:dark_powder_block",
+    "count": 1
+  }
+}

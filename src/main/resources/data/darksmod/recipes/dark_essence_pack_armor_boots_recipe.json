@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:netherite_boots"
+  },
+  "addition": {
+    "item": "darksmod:dark_essence"
+  },
+  "result": {
+    "item": "darksmod:dark_essence_pack_armor_boots"
+  }
+}

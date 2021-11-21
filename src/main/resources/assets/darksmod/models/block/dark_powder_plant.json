@@ -1,0 +1,7 @@
+{
+  "parent": "block/tinted_cross",
+  "textures": {
+    "cross": "darksmod:blocks/dark_powder_plant",
+    "particle": "darksmod:blocks/dark_powder_plant"
+  }
+}

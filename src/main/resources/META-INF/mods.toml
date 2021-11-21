@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="Creative Commons Attribution-NonCommercial 3.0"
+
+[[mods]]
+modId="darksmod"
+version="ALPHA-0.0.01"
+displayName="Dark's Mod"
+credits="Mod Creation - realDarkGamerYT, Playtesting - FangzTheSavage, MarshChuffXD"
+displayURL="https://mcreator.net"
+authors="realDarkGamer"
+
+[[dependencies.darksmod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

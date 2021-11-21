@@ -1,0 +1,42 @@
+{
+  "group": "darksmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "darksmod:dark_essence"
+    },
+    "1": {
+      "item": "darksmod:dark_essence"
+    },
+    "2": {
+      "item": "darksmod:dark_essence"
+    },
+    "3": {
+      "item": "darksmod:dark_essence"
+    },
+    "4": {
+      "item": "darksmod:dark_essence"
+    },
+    "5": {
+      "item": "darksmod:dark_essence"
+    },
+    "6": {
+      "item": "darksmod:dark_essence"
+    },
+    "7": {
+      "item": "darksmod:dark_essence"
+    },
+    "8": {
+      "item": "darksmod:dark_essence"
+    }
+  },
+  "result": {
+    "item": "darksmod:dark_essence_block",
+    "count": 1
+  }
+}

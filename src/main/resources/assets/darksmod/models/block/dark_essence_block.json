@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "darksmod:blocks/dark_essence_block",
+    "up": "darksmod:blocks/dark_essence_block",
+    "north": "darksmod:blocks/dark_essence_block",
+    "east": "darksmod:blocks/dark_essence_block",
+    "south": "darksmod:blocks/dark_essence_block",
+    "west": "darksmod:blocks/dark_essence_block",
+    "particle": "darksmod:blocks/dark_essence_block"
+  }
+}
